@@ -9,6 +9,11 @@ using CharacterRandomizer.DataContexts;
 using CharacterRandomizer.Models;
 using CharacterRandomizer.Common;
 
+//TODO: AASIMAR TAKE HUMAN NAMES
+//TODO: FIRBOLGS TAKE ELVEN NAMES
+//TODO: GENASI TAKE HUMAN NAMES 
+//TODO: GENASI SUBRACE THEMATIC NAMES
+
 namespace CharacterRandomizer.Controllers
 {
     [Route("api/[controller]")]
